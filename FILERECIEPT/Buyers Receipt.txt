@@ -1,0 +1,18 @@
+AMA JESSICA'S VENTURES (AJV)
+******************************
+Customer:srghsfs
+Telephone:35353678
+Order-Date:4/46/4
+_______________________________
+Items	 Qty	Unit-Price	Sub-total
+shirts:	  7	  24.0	          168.0
+Pants: 	  46	  632.0	          29072.0
+dress: 	  73	  646.0	          47158.0
+_____________________________________________________________
+Number of items:126
+Total Order:GHc76398.0
+Total Discount:Ghc1145.97
+============================================================
+Created by Benjamin Abakah
+01200644D
+Cps 2C
